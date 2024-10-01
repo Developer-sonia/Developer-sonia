@@ -76,13 +76,13 @@ Check out my repositories to explore more! 😄
 
 > "Stay hungry, stay foolish." – *Steve Jobs*
 
-Feel free to explore, collaborate, or simply connect! Let’s create something awesome together. ✨[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Developer-sonia)  
+Feel free to explore, collaborate, or simply connect! Let’s create something awesome together. 
+
+✨[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Developer-sonia)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-sonia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-sonia&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Developer-sonia/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Developer-sonia)  
 
