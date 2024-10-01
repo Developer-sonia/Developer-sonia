@@ -80,7 +80,7 @@ Feel free to explore, collaborate, or simply connect! Let’s create something a
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-sonia&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Developer-sonia)  
+!(https://metrics.lecoq.io/Developer-sonia)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-sonia)  
 
