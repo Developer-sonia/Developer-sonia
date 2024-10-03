@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/v2/C4E16AQHf1yCOpM7leQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1623580816800?e=1733356800&v=beta&t=cHMByzn36LLtBW_akDE3i-fj2REpO2GaalNq7ed1DZo
+![image](https://github.com/user-attachments/assets/3a6f66e8-2fc6-4028-a6ef-93f8a7fcb0a5)
 
 ## Welcome to My GitHub World! 🌍✨
 
