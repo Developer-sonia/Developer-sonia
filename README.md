@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5e15a923-2d2a-48fd-9cbf-861b96ed873c)
+
 ## Welcome to My GitHub World! 🌍✨
 
 Hi, I'm Sonia Islam 👋, a passionate developer on a continuous journey to build, learn, and grow in the world of technology. This profile is a reflection of my work, ideas, and collaboration efforts. 
